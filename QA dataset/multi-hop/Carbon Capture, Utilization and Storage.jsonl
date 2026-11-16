@@ -1,0 +1,6 @@
+{"category": "末端捕集（CCUS）", "question": "钢渣根据冶炼工艺不同可分为哪几类？每类钢渣中常见的矿物相有哪些？", "answer": "钢渣可分为转炉钢渣（BOF）、电炉钢渣（EAF）和炉外精炼钢渣（LF）。转炉钢渣常见的矿物相包括C2S、C3S、f-CaO、MgO、FeO等；电炉钢渣常见的矿物相包括C2S、FeO、Fe2O3、Fe3O4、Ca2Fe2O5等；炉外精炼钢渣常见的矿物相包括C2S、C3S、CaO、MgO、C12A7等。"}
+{"category": "末端捕集（CCUS）", "question": "钢渣中哪些矿物相被研究用于碳化反应，以及如何通过实验和DFT计算揭示其碳化反应机理？", "answer": "钢渣中的β-Ca2SiO4 (β-C2S)、Ca3MgSi2O8 (C3MS2)和Ca2MgSi2O8 (C2MS2)三种矿物相被研究。实验上，通过X射线衍射（XRD）、热重分析（TGA）、傅里叶变换红外光谱（FT-IR）和低场核磁共振（LF-NMR）分析其碳化反应活性、硬化性能和微观结构。理论上，基于密度泛函理论（DFT），从结构差异、键序-键长（BO-BL）和态密度（DOS）角度解释碳化反应活性与矿物元素组成的关系及反应机理。"}
+{"category": "末端捕集（CCUS）", "question": "在钢铁生产中，BF-BOF流程和EAF流程每吨粗钢的二氧化碳排放量分别是多少？", "answer": "BF-BOF流程每吨粗钢一般排放约2.33吨CO₂，EAF流程一般排放约0.68吨CO₂。"}
+{"category": "末端捕集（CCUS）", "question": "在热风炉改造项目中，采用化学吸收法进行后燃烧CO2捕集时，使用BFG+COG和BFG+NG两种燃料方案，废气中的CO2含量分别是多少？", "answer": "使用BFG+COG方案时废气中CO2含量为93.11 t/h，使用BFG+NG方案时废气中CO2含量为97.13 t/h。"}
+{"category": "末端捕集（CCUS）", "question": "在钙循环CO2捕集过程中，MgO作为稳定剂的Tammann温度是多少？它如何影响吸附剂的稳定性？", "answer": "MgO的Tammann温度为1276 °C。由于其高Tammann温度，MgO在钙循环过程中不参与碳化反应，而是作为间隔物（well spacer），在温度升高时增加孔隙率，抵抗CaCO3晶粒的烧结，从而稳定吸附剂的CO2捕获容量。"}
+{"category": "末端捕集（CCUS）", "question": "在胺-RTIL系统中，RTIL通过哪些机制控制碳钢的腐蚀？", "answer": "RTIL通过在工作电极表面形成保护涂层来控制腐蚀，这从腐蚀电位的正移可以看出。此外，用RTIL替代水减少了水相中氧化物种的活性作用，并且涉及MEA、AMP和DEA的胺-RTIL介质中气体捕获产物沉淀使固体氨基甲酸盐移出反应相，从而避免其参与电化学腐蚀过程。"}

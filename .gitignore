@@ -1,0 +1,57 @@
+# ---------------------------------------------------------------- credentials
+.env
+.env.*
+!.env.example
+
+# ------------------------------------------------------- Python build artefacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# ------------------------------------------- knowledge-base artefacts (not shipped)
+# The corpus, the chunk store, the indexes and the graph-vector snapshots are not part of
+# this repository; see "Data availability" in the README.
+cache/
+**/cache/
+records.jsonl
+bm25.pkl
+*.faiss
+*.index
+embeddings.npy
+*.npz
+
+# ------------------------------------------------------------------ local-only data
+QA dataset/private/
+QA dataset/**/private/
+
+# ------------------------------------------------------------ model weight files
+model/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# -------------------------------------------------------------- evaluation output
+eval_results/**/*_all_qa_metrics.csv
+rerun/
+
+# ------------------------------------------------------------ local data and docs
+*.xlsx
+*.xls
+*.rar
+*.zip
+*.log
+log*.txt
+
+# ------------------------------------------------------------------ OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
